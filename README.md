@@ -56,6 +56,20 @@ A ordem de atendimento é: urgente, preferencial e normal. Dentro de cada catego
 | menu()                 | Controla as opções       |
 | main()                 | Inicia o programa        |
 
-## 6. Considerações finais
+
+## 6. Testes realizados
+
+Foram realizados testes para verificar o funcionamento do sistema, incluindo:
+
+- Cadastro de pacientes normais, preferenciais e urgentes.
+- Geração de senhas sequenciais.
+- Atendimento respeitando a ordem de prioridade.
+- Respeito à ordem de chegada dentro de cada categoria.
+- Finalização dos atendimentos.
+- Consulta das filas e quantidade de pacientes aguardando.
+- Verificação de dados inválidos e filas vazias.
+
+  
+## 7. Considerações finais
 
 O projeto permite aplicar conceitos da linguagem C, como funções, structs, vetores, filas e estruturas de repetição.
